@@ -1,0 +1,4 @@
+/onboarding.sqlite
+/onboarding.sqlite-*
+~$*.xlsx
+.DS_Store

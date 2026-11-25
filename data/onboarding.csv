@@ -1,0 +1,17 @@
+broker,sequence,stage,instruction,guide_section,source_url,accessed_on
+Futu HK,1,App registration,"Applicants register a mobile number, verify it with a code and set a password.",Section 2,https://www.futuhk.com/cn/en/support/topic2_9,2026-11-25
+Futu HK,2,Start application,Applicants select online transfer verification and accept the client agreements to start the application.,Sections 3 and 4.1,https://www.futuhk.com/cn/en/support/topic2_9,2026-11-25
+Futu HK,3,Identity and address,"Applicants select their place of residence and provide ID, contact details and proof of address.",Sections 4.2–4.3,https://www.futuhk.com/cn/en/support/topic2_9,2026-11-25
+Futu HK,4,Profile and authentication,"Applicants provide employment, financial, investment and tax details, review risk disclosures and verify their phone by SMS.",Sections 4.4–4.7,https://www.futuhk.com/cn/en/support/topic2_9,2026-11-25
+Futu HK,5,Sign and view instructions,Applicants check and sign the application electronically. The transfer instructions appear once the details are submitted.,Sections 4.8–4.9,https://www.futuhk.com/cn/en/support/topic2_9,2026-11-25
+Futu HK,6,Link bank account,The Hong Kong dollar route uses a Hong Kong bank account held solely in the applicant’s name.,Sections 1.1 and 4.10,https://www.futuhk.com/cn/en/support/topic2_9,2026-11-25
+Futu HK,7,Fund for verification,"Futu uses an FPS transfer of at least HK$10,000 from the linked bank account for verification.",Sections 1.1 and 4.11.1,https://www.futuhk.com/cn/en/support/topic2_9,2026-11-25
+Futu HK,8,Notify broker,Applicants enter the transfer amount in Futubull and submit the deposit request.,Section 4.11.1,https://www.futuhk.com/cn/en/support/topic2_9,2026-11-25
+Futu HK,9,Application review,"After the transfer and notification, Futu reviews the application within 1–2 working days and sends updates by app message and email.",Section 4.12,https://www.futuhk.com/cn/en/support/topic2_9,2026-11-25
+Webull HK,1,Start application,Applicants start from Open Account on Webull’s main screen.,Step 1,https://www.webull.hk/en/help/faq/1795-How-to-open-a-Webull-Securities-account,2026-11-25
+Webull HK,2,Identity documents,Applicants upload their chosen ID. Non-permanent Hong Kong residents also need a second ID.,Step 2,https://www.webull.hk/en/help/faq/1795-How-to-open-a-Webull-Securities-account,2026-11-25
+Webull HK,3,Address information,Applicants enter personal and address details. The address proof must match and be dated within three months.,Step 3,https://www.webull.hk/en/help/faq/1795-How-to-open-a-Webull-Securities-account,2026-11-25
+Webull HK,4,Profile and account type,Applicants provide employment and financial details and choose the account type and investment objectives.,Step 4,https://www.webull.hk/en/help/faq/1795-How-to-open-a-Webull-Securities-account,2026-11-25
+Webull HK,5,Fund for verification,"For online verification by FPS, applicants transfer HK$10,000 in HKD from a bank account in their own name.","Step 5, FPS",https://www.webull.hk/en/help/faq/1795-How-to-open-a-Webull-Securities-account,2026-11-25
+Webull HK,6,Notify broker,Webull requires a deposit notification in the app with the amount and a receipt.,"Step 5, FPS",https://www.webull.hk/en/help/faq/1795-How-to-open-a-Webull-Securities-account,2026-11-25
+Webull HK,7,Submit and await review,"Applicants submit after verification. Opening usually takes 1–2 business days, with confirmation by app or email.",Step 6,https://www.webull.hk/en/help/faq/1795-How-to-open-a-Webull-Securities-account,2026-11-25
